@@ -1,2 +1,4 @@
-# startRepo
-Repo that has my current .gitignore 2/12/2022
+# HackerEarth
+HackerEarth Algorithms
+
+https://www.hackerearth.com/
